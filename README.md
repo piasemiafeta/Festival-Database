@@ -1,7 +1,7 @@
 Festival Organisation Database
 ==============================
 
-Welcome to our Festival Organisation Database. For this project we were instructed to create a database that would handle and store data referring to a series of festivals. It contains information about the festivals, the locations of them, the events that are planned for the festivals, the stages, the performances, the artists as well as the visitors, the tickets, a secondary resell queue and the ratings some visitors left. In this repository you will find three files except for the README, two install files and one load file. The load file contains the data for the database whereas the install files contain the schema. The differnce between the two install files is that one contains some indeces added at the end (These are included in the install2.sql).
+Welcome to our Festival Organisation Database. For this project we were instructed to create a database that would handle and store data referring to a series of festivals. It contains information about the festivals, the locations of them, the events that are planned for the festivals, the stages, the performances, the artists as well as the visitors, the tickets, a secondary resell queue and the ratings some visitors left. In this repository you will find three files except for the README, two install files and one load file. The load file contains the data for the database whereas the install files contain the schema. The difference between the two install files is that one contains some indeces added at the end (These are included in the install2.sql).
 
 ## Directory Features
 - MySQL was utilised for robust and scalable data storage.
