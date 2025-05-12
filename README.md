@@ -1,3 +1,3 @@
-Festival Organisation Databese
+Festival Organisation Database
 ==============================
 
