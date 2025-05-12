@@ -6,7 +6,7 @@ Welcome to our Festival Organisation Database. For this project we were instruct
 ## Directory Features
 - MySQL was utilised for robust and scalable data storage.
 - The data was generated partly with the usage of LLMs as well as Python scripts that generated dummy data.
-- The database install scipts also include triggers to ensure the integrity of the data.
+- The database install scripts also include triggers to ensure the integrity of the data.
 - Xampp version 3.3 was utilized for the uploading of the database.
 - Version 10.4.32-MariaDB used by the mysql Xampp module.
 
